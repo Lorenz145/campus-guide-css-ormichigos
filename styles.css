@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #f8dfba;
+}
+
+h1, h2 {
+    color: #1b4d3e;
+}
+
+h1 {
+    text-align: center;
+}
+
+.intro {
+    font-size: 1.2em;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.tip {
+    font-style: italic;
+    color: #b75b05
+}
+
+img {
+    border: 4px solid #1b4d3e;
+}
